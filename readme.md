@@ -16,7 +16,7 @@ De data bestaat uit 2 variabelen, de taal zelf en het aantal sprekers in de twee
 
 Het is een vrij toegankelijke data-set, met relatief weinig regels. Interessant zou zijn de volume van de grote aantallen visueel sterk naast elkaar neer te zetten, hierdoor zie je in een oogopslag de verschillen in volume. En het geeft een interessant inzicht in welke talen er nog meer na de paar grootste en bekendste volgen en ik welke volgorde.
 
-###Chart 
+### chart
 Een grafiek met een duidelijke labeling waar de volume in een juist formaat overkomt, waarbij elke attribute goed te vergelijken is. 
 
 ## Proces
