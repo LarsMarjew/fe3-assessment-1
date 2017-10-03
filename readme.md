@@ -5,12 +5,12 @@ at [**@CMDA**][cmda].
 
 ## TODO
 
-*   [ ] [GitHub Pages](#github-pages)
+*   [ ] [Verkenning](#verkenning)
 *   [ ] [Metadata](#metadata)
 *   [ ] [Workflow](#workflow)
 *   [ ] Replace this document in your fork with your own readme!
 
-## GitHub Pages
+## Verkenning
 
 Set up [GitHub Pages][pages] for this fork through the **Settings** pane.  Use
 the **Master branch** as its source.
