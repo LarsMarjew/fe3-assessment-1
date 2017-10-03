@@ -3,24 +3,28 @@
 This repository can be forked for [**assessment 1**][a1] of [Frontend 3][fe3]
 at [**@CMDA**][cmda].
 
-## TODO
+## Aspecten
 
 *   [ ] [Verkenning](#verkenning)
-*   [ ] [Metadata](#metadata)
-*   [ ] [Workflow](#workflow)
+*   [ ] [Proces](#proces)
+*   [ ] [Review](#review)
 *   [ ] Replace this document in your fork with your own readme!
 
 ## Verkenning
 
-Set up [GitHub Pages][pages] for this fork through the **Settings** pane.  Use
-the **Master branch** as its source.
+De data bestaat uit 2 variabelen, de taal zelf en het aantal sprekers in de tweede kolom. Wat opvalt is dat er labels zijn en het variabele het aantal sprekers is. De getallen lopen ook aardig hoog op met als grootste getal 1090000000 en als kleinste getal 66000000. 
 
-## Metadata
+Het is een vrij toegankelijke data-set, met relatief weinig regels. Interessant zou zijn de volume van de grote aantallen visueel sterk naast elkaar neer te zetten, hierdoor zie je in een oogopslag de verschillen in volume. En het geeft een interessant inzicht in welke talen er nog meer na de paar grootste en bekendste volgen en ik welke volgorde.
+
+###Chart 
+Een grafiek met een duidelijke labeling waar de volume in een juist formaat overkomt, waarbij elke attribute goed te vergelijken is. 
+
+## Proces
 
 Edit the **description** and **url** of your repository.  Click on edit above
 the green Clone or download button and fill in your correct information.
 
-## Workflow
+## Review
 
 How you go about your project is up to you other than that it must meet the
 given requirements.  The following steps may help to tackle this challenge
