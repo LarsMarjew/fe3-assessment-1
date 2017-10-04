@@ -32,11 +32,11 @@ Italian	66000000
 ```
 
 ## Workflow
-1. I've chosen to use a Barchart, because it presents the comparison of volume in combination with labels more accurately than alternatives(like a bubblechart).;
-2. First i'm using the [Basic Barchart](https://bl.ocks.org/mbostock/3885304) example of Mike Bostock as a begin.;
-3. Then i'm loading in the data with [`languages.tsv`](https://github.com/cmda-fe3/course-17-18/blob/master/assessment-1/languages.tsv);
-4. I have added a tooltip with [`d3-tip`](https://github.com/VACLab/d3-tip).;
-5. Rearranged all the scales/labels and colors of the graph.;
+1. I've chosen to use a Barchart, because it presents the comparison of volume in combination with labels more accurately than alternatives(like a bubblechart).
+2. First i'm using the [Basic Barchart](https://bl.ocks.org/mbostock/3885304) example of Mike Bostock as a begin.
+3. Then i'm loading in the data with [`languages.tsv`](https://github.com/cmda-fe3/course-17-18/blob/master/assessment-1/languages.tsv)
+4. I have added a tooltip with [`d3-tip`](https://github.com/VACLab/d3-tip).
+5. Rearranged all the scales/labels and colors of the graph.
 
 
 ## Features
@@ -46,7 +46,7 @@ Italian	66000000
 * Colors to make the data more easily comparable.
 
 ### D3
-* [d3-tip]((https://github.com/VACLab/d3-tip) - tooltip library.
+* [d3-tip](https://github.com/VACLab/d3-tip) - tooltip library.
 * [ScaleOrdinal](https://bl.ocks.org/d3indepth/fabe4d1adbf658c0b73c74d3ea36d465) - create a ordinal scale(assign colors).
 * [selectAll](https://github.com/d3/d3-selection/blob/master/README.md#selectAll) - selecting multiple elements.
 * [attr](https://github.com/d3/d3-selection/blob/master/README.md#selection_attr) - create or change an attribute.
